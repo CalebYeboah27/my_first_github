@@ -1,0 +1,7 @@
+1. Print
+2. Walk
+3. Run
+4. Jump
+5. Type
+6. Sleep
+7. Working
